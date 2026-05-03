@@ -2,7 +2,7 @@
 # Terraform Jenkins AWS Infrastructure
 
 ## Overview
-This project provisions a Jenkins server on AWS using Terraform with a modular architecture.
+Production-style AWS CI/CD pipeline using Terraform and Jenkins.
 
 ## Tech Stack
 - AWS
@@ -10,7 +10,7 @@ This project provisions a Jenkins server on AWS using Terraform with a modular a
 - Jenkins
 
 ## Status
-🚧 Work in progress (actively building)
+ Work in progress (actively building)
 
 
 
