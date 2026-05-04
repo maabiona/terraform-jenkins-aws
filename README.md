@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates the design, provisioning, and operation of a CI/CD platform on AWS using Terraform and Jenkins.
+This project demonstrates the design, provisioning, & operation of a CI/CD platform on AWS using Terraform and Jenkins.
 
 It focuses not only on infrastructure deployment, but also on handling real-world issues such as service failures, dependency mismatches, and system-level debugging. The implementation reflects practical DevOps workflows where infrastructure and application layers must both be validated.
 
